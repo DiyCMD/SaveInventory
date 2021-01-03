@@ -1,1 +1,0 @@
-execute in system_dim:main run forceload add 0 0
