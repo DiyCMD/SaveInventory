@@ -12,7 +12,7 @@
   - [注意事項](#注意事項)
 ***
 ## ダウンロード
-<ins>**[SaveInventory.zip](https://github.com/DiyCMD/SaveInventory/releases/download/1.1.0/SaveInventory.zip)**</ins>
+<ins>**[SaveInventory.zip](https://github.com/DiyCMD/SaveInventory/releases/download/1.1.1/SaveInventory.zip)**</ins>
 ## 依存ライブラリ
 * [Oh! My Dat!](https://github.com/Ai-Akaishi/OhMyDat)
 ## 使い方
